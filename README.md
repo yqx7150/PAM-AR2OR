@@ -13,13 +13,14 @@ Copyright 2024, Department of Electronic Information Engineering, Nanchang Unive
 
 
 
+
 **Abstract:** Acoustic-resolution photoacoustic microscopy (AR-PAM) suffers from degraded lateral resolution due to acoustic diffraction. Here, a resolution enhancement strategy for AR-PAM via mean-reverting diffusion model was proposed to achieve the transition from acoustic resolution to optical resolution. By modeling the degradation process from high-resolution image to low-resolution AR-PAM image with stable Gaussian noise (i.e. mean state), a mean-reverting diffusion model is trained to learn prior information of the data distribution. Then the learned prior is employed to generate high-resolution image from AR-PAM image by iteratively sampling the noisy state. The performance of the proposed method was validated utilizing the simulated and *in vivo* experimental data under varying lateral resolutions and noise levels. The results show that an over 3.6-fold enhancement in lateral resolution was achieved. And the image quality can be effectively improved, with a notable enhancement of ∼ 66% in PSNR and ∼ 480% in SSIM for *in vivo* data. 
 
 
 
 ## Method.
 
-![method](png/png/Fig1.png)
+![method](png/png/Fig3.png)
 
 ## Comparison Experiment.
 
