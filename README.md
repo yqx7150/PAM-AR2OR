@@ -19,7 +19,7 @@ Copyright 2024, Department of Electronic Information Engineering, Nanchang Unive
 
 ## Method.
 
-![method](PAM-AR2OR/PAM-AR2OR/Figures/tiff/Fig1.tif)
+![method](png/png/Fig1.png)
 
 ## Comparison Experiment.
 
