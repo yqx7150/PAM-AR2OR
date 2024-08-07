@@ -5,7 +5,7 @@ Paper：Mean-reverting diffusion model-enhanced acoustic-resolution photoacousti
 Authors：Yiyang Cao, Shunfeng Lu, Cong Wan, Kangjun Guo, Xuan Liu, Yiguang Wang,  Yubin Cao, Zilong Li, Qiegen Liu and Xianlin Song
 
 
-
+Date: August-6-2024
 Version：1.0
 
 The code and the algorithm are for non-comercial use only.
@@ -23,23 +23,23 @@ Copyright 2024, Department of Electronic Information Engineering, Nanchang Unive
 
 ## Comparison Experiment.
 
-![method](Figures/tiff/Fig5.tif)
+![method](png/png//Fig5.png)
 
 
 
 ## Results on point simulation data.
 
-![method](Figures/tiff/Fig4.tif)
+![method](png/png//Fig4.png)
 
 ## Results on *in vivo* experimental data.
 
-![method](Figures/tiff/Fig6.tif)
+![method](png/png//Fig6.png)
 
-![method](Figures/tiff/Fig7.tif)
+![method](png/png//Fig7.png)
 
 ## Large-scale mouse brain vasculature data.
 
-![method](Figures/tiff/Fig8.tif)
+![method](png/png//Fig8.png)
 
 
 
