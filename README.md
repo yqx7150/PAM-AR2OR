@@ -1,13 +1,14 @@
 # PAM-AR2OR
-Paper：Mean-reverting diffusion model-enhanced acoustic-resolution photoacoustic microscopy for resolution enhancement: toward optical resolution
+Paper: Mean-reverting diffusion model-enhanced acoustic-resolution photoacoustic microscopy for resolution enhancement: toward optical resolution
 
 Authors：Yiyang Cao, Shunfeng Lu, Cong Wan, Kangjun Guo, Xuan Liu, Yiguang Wang,  Yubin Cao, Zilong Li, Qiegen Liu and Xianlin Song
 
 Date: August-6-2024
 
-Version：1.0
+Version: 1.0
 
 The code and the algorithm are for non-comercial use only.
+
 Copyright 2024, Department of Electronic Information Engineering, Nanchang University.
 
 
